@@ -24,7 +24,8 @@ public class Hauteskundeak {
 		h2012.gehituMahaia("Irun");
 		h2012.gehituMahaia("Donostia");
 		h2012.gehituMahaia("Tolosa");
-		h2012.gehituMahaia("Mikel Fernandez")
+		h2012.gehituMahaia("Mikel Fernandez");
+		h2012.gehituMahaia("Andoni Añibarro 1");
 		
 		System.out.println(h2012);
 	}
